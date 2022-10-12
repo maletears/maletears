@@ -4,3 +4,6 @@
 
 ## Table of Contents
 - [Introduction](https://github.com/maletears/maletears/blob/main/INTRO.md)
+
+## Notable Repositories
+- [Writing](https://github.com/maletears/writing)
